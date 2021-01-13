@@ -8,5 +8,5 @@ def play_game(player2)
   "#{player1} is better than #{player2}"
 end
 
-start_game(Matt, Mike)
+start_game(Matthew, Mike)
 play_game(John, Frank)
